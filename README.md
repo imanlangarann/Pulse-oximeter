@@ -127,6 +127,16 @@ SpO2: 98%
 
 ![schematic](./files/schematic.jpeg)
 
+---
+
+## Pictures
+
+![1](./files/1.webp)
+![2](./files/2.webp)
+![3](./files/3.webp)
+![4](./files/4.webp)
+![5](./files/5.webp)
+
 
 ---
 
