@@ -125,7 +125,7 @@ SpO2: 98%
 
 ## Schematic
 
-![schematic](./chematic.jpeg)
+![schematic](./files/schematic.jpeg)
 
 
 ---
